@@ -8,3 +8,5 @@
 
 So, when the PR is created, there should be three commits.
 Each commit should follow the git conventions (https://kapeli.com/cheat_sheets/Conventional_Commits.docset/Contents/Resources/Documents/index).
+For example: a feature commit should look like this:
+feat: Create Login 
